@@ -1,6 +1,5 @@
 package com.elevator.strategy;
 
-import com.elevator.model.Direction;
 import com.elevator.model.Elevator;
 import com.elevator.model.Request;
 
